@@ -1,0 +1,14 @@
+body {
+    background: rgb(244, 218, 238);
+}
+.button1, .button2 {
+    width: 200;
+    height: 80;
+    text-align: center;
+    align-items: center;
+    font-size: 1.5em;
+    background: white;
+    border: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: purple;
+}
